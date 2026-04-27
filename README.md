@@ -1,1 +1,1 @@
-# Discord.js-v14-Handler
+Repo moved to https://github.com/IN3PIRE/discord-js-handler
